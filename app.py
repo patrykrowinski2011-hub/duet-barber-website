@@ -476,7 +476,7 @@ HTML_PAGE = """
                 <li><a href="#galeria">Galeria</a></li>
                 <li><a href="#kontakt">Kontakt</a></li>
             </ul>
-            <a href="https://booksy.com" target="_blank" class="btn-header">UMÓW WIZYTĘ</a>
+            <a href="https://booksy.com/pl-pl/101380_duet-studio-fryzjerskie-ul-jana-pawla_fryzjer_4353_piaseczno" target="_blank" class="btn-header">UMÓW WIZYTĘ</a>
         </div>
     </header>
 
@@ -487,7 +487,7 @@ HTML_PAGE = """
             <div class="subtitle">Fryzjer damski, męski i barber w Piasecznie</div>
             <p>Profesjonalne strzyżenia, koloryzacja, stylizacja oraz usługi barberskie. Umów wizytę szybko i wygodnie online.</p>
             <div class="hero-buttons">
-                <a href="https://booksy.com" target="_blank" class="btn-primary">UMÓW WIZYTĘ</a>
+                <a href="https://booksy.com/pl-pl/101380_duet-studio-fryzjerskie-ul-jana-pawla_fryzjer_4353_piaseczno" target="_blank" class="btn-primary">UMÓW WIZYTĘ</a>
                 <a href="tel:504443333" class="btn-secondary">ZADZWOŃ: 504 443 333</a>
             </div>
             <div class="hero-location">Piaseczno • ul. Jana Pawła II 19</div>
@@ -603,7 +603,7 @@ HTML_PAGE = """
         <div class="barber-box">
             <h2>DUET BARBER</h2>
             <p>Precyzyjne strzyżenie, stylizacja i pielęgnacja brody w nowoczesnym wydaniu.</p>
-            <a href="https://booksy.com" target="_blank" class="btn-primary">UMÓW WIZYTĘ BARBER</a>
+            <a href="https://booksy.com/pl-pl/101380_duet-studio-fryzjerskie-ul-jana-pawla_fryzjer_4353_piaseczno" target="_blank" class="btn-primary">UMÓW WIZYTĘ BARBER</a>
         </div>
     </section>
 
@@ -643,7 +643,7 @@ HTML_PAGE = """
                     <span>Wygodnie online przez aplikację Booksy</span>
                 </div>
                 <div style="margin-top: 30px;">
-                    <a href="https://booksy.com" target="_blank" class="btn-primary" style="display: inline-block; width: 100%; text-align: center; margin-bottom: 10px;">REZERWUJ W BOOKSY</a>
+                    <a href="https://booksy.com/pl-pl/101380_duet-studio-fryzjerskie-ul-jana-pawla_fryzjer_4353_piaseczno" target="_blank" class="btn-primary" style="display: inline-block; width: 100%; text-align: center; margin-bottom: 10px;">REZERWUJ W BOOKSY</a>
                     <a href="tel:504443333" class="btn-secondary" style="display: inline-block; width: 100%; text-align: center;">ZADZWOŃ TERAZ</a>
                 </div>
             </div>
@@ -663,7 +663,7 @@ HTML_PAGE = """
 
     <!-- STICKY BOTTOM BAR MOBILNY -->
     <div class="mobile-sticky-bar">
-        <a href="https://booksy.com" target="_blank" class="btn-primary">UMÓW WIZYTĘ</a>
+        <a href="https://booksy.com/pl-pl/101380_duet-studio-fryzjerskie-ul-jana-pawla_fryzjer_4353_piaseczno" target="_blank" class="btn-primary">UMÓW WIZYTĘ</a>
         <a href="tel:504443333" class="btn-secondary">ZADZWOŃ</a>
     </div>
 
